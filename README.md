@@ -26,8 +26,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-
-<img src='https://im3.ezgif.com/tmp/ezgif-3-15d159d902.gif' width='250' />
+![](https://i.imgur.com/O9ikM6X.gif)
 
 GIF created with [Kap](https://getkap.co/).
 
