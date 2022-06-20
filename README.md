@@ -26,7 +26,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/O9ikM6X.gif)
+<img src ="https://i.imgur.com/O9ikM6X.gif", width = 250 />
 
 GIF created with [Kap](https://getkap.co/).
 
